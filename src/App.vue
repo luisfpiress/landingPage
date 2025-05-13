@@ -16,7 +16,6 @@
     <services-section />
     <process-section />
     <cases-section />
-    <team-section />
     <cta-section />
     <the-footer />
   </div>
@@ -30,7 +29,6 @@ import AboutSection from './components/sections/AboutSection.vue'
 import ServicesSection from './components/sections/ServicesSection.vue'
 import ProcessSection from './components/sections/ProcessSection.vue'
 import CasesSection from './components/sections/CasesSection.vue'
-import TeamSection from './components/sections/TeamSection.vue'
 import CtaSection from './components/sections/CtaSection.vue'
 
 export default {
@@ -43,7 +41,6 @@ export default {
     ServicesSection,
     ProcessSection,
     CasesSection,
-    TeamSection,
     CtaSection
   }
 }
