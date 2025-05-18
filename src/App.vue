@@ -31,6 +31,7 @@ import ProcessSection from './components/sections/ProcessSection.vue'
 import CasesSection from './components/sections/CasesSection.vue'
 import CtaSection from './components/sections/CtaSection.vue'
 
+
 export default {
   name: 'App',
   components: {
